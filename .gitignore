@@ -11,4 +11,5 @@ build-*/
 config-debug
 wayland-*-protocol.*
 subprojects/*/
+subprojects/.wraplock
 !subprojects/wlroots/
